@@ -1,9 +1,10 @@
 {
-  "homepage": "https://rahuls321.github.io/counter",
+  "homepage": "https://rahuls321.github.io/Counter",
   "name": "counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^1.2.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-redux": "^5.0.7",
